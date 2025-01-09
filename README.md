@@ -17,3 +17,9 @@ For the chara design, it's not mine but Nobody's save the world: https://nobody-
 This game is in work in progress. I don't have much time to work on it; this is a beta test version. 
 I'm aiming to continue between the end of 2024 and 2025 to develop a more complete version, with more enemies and enhanced actions for Magic and items. 
 Feel free to use it however you like, and don't hesitate to share your customizations with me. ;)
+
+-----------------------------------UPDATE 09th of January 2025-----------------------------------
+
+To kick off the new year, I'm resuming the C.B.G and doing a complete overhaul. I'll update the new script and its dependencies at the end. I might even create another repository for the occasion.
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/13df7b74-fafb-429e-898b-32fb1eba631e" />
+
