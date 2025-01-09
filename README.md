@@ -21,5 +21,7 @@ Feel free to use it however you like, and don't hesitate to share your customiza
 -----------------------------------UPDATE 09th of January 2025-----------------------------------
 
 To kick off the new year, I'm resuming the C.B.G and doing a complete overhaul. I'll update the new script and its dependencies at the end. I might even create another repository for the occasion.
+
+
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/13df7b74-fafb-429e-898b-32fb1eba631e" />
 
